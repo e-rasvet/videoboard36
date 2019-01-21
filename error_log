@@ -1,0 +1,87 @@
+[15-Dec-2018 01:58:21 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 01:58:21 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 01:58:21 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 01:58:21 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 01:58:21 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 01:58:21 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 01:58:21 Asia/Tokyo] Default exception handler: Exception - Call to a member function get_grade_item() on boolean Debug: 
+Error code: generalexceptionmessage
+* line 1138 of /lib/grade/grade_item.php: Error thrown
+* line 443 of /lib/gradelib.php: call to grade_item::fetch_course_item()
+* line 2320 of /mod/videoboard/lib.php: call to grade_get_grades()
+* line 1791 of /mod/videoboard/lib.php: call to videoboard_base->display_submissions()
+* line 67 of /mod/videoboard/submissions.php: call to videoboard_base->submissions()
+
+[15-Dec-2018 02:03:58 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 02:03:58 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 02:03:58 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 02:04:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 02:04:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 02:04:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 02:04:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 02:04:03 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 02:04:03 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 02:04:03 Asia/Tokyo] Default exception handler: Exception - Call to a member function get_grade_item() on boolean Debug: 
+Error code: generalexceptionmessage
+* line 1138 of /lib/grade/grade_item.php: Error thrown
+* line 443 of /lib/gradelib.php: call to grade_item::fetch_course_item()
+* line 2320 of /mod/videoboard/lib.php: call to grade_get_grades()
+* line 1791 of /mod/videoboard/lib.php: call to videoboard_base->display_submissions()
+* line 67 of /mod/videoboard/submissions.php: call to videoboard_base->submissions()
+
+[15-Dec-2018 02:11:46 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 02:11:46 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 02:11:46 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 02:11:50 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 02:11:51 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 02:11:51 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 02:11:51 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 02:11:51 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 02:11:51 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 02:11:51 Asia/Tokyo] Default exception handler: Exception - Call to a member function get_grade_item() on boolean Debug: 
+Error code: generalexceptionmessage
+* line 1138 of /lib/grade/grade_item.php: Error thrown
+* line 443 of /lib/gradelib.php: call to grade_item::fetch_course_item()
+* line 2320 of /mod/videoboard/lib.php: call to grade_get_grades()
+* line 1791 of /mod/videoboard/lib.php: call to videoboard_base->display_submissions()
+* line 67 of /mod/videoboard/submissions.php: call to videoboard_base->submissions()
+
+[15-Dec-2018 03:27:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 03:27:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 03:27:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 03:27:03 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 03:27:03 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 03:28:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 03:28:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 03:28:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 03:28:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 03:28:52 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2323
+[15-Dec-2018 03:29:43 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 03:29:43 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 03:29:43 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 03:29:43 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 03:29:43 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2325
+[15-Dec-2018 03:30:31 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 03:30:31 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 03:30:31 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 03:30:31 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 03:30:31 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2317
+[15-Dec-2018 03:30:46 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 03:30:47 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 03:30:47 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 03:30:47 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
+[15-Dec-2018 03:30:47 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 03:30:47 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 2320
+[15-Dec-2018 03:30:47 Asia/Tokyo] Default exception handler: Exception - Call to a member function get_grade_item() on boolean Debug: 
+Error code: generalexceptionmessage
+* line 1138 of /lib/grade/grade_item.php: Error thrown
+* line 443 of /lib/gradelib.php: call to grade_item::fetch_course_item()
+* line 2320 of /mod/videoboard/lib.php: call to grade_get_grades()
+* line 1791 of /mod/videoboard/lib.php: call to videoboard_base->display_submissions()
+* line 67 of /mod/videoboard/submissions.php: call to videoboard_base->submissions()
+
+[15-Dec-2018 03:31:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/lib.php on line 1155
+[15-Dec-2018 03:31:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; voiceshadow_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/voiceshadow/lib.php on line 1187
+[15-Dec-2018 03:31:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mediaboard_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/mediaboard/lib.php on line 852
+[15-Dec-2018 03:31:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; sassessment_base has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/sassessment/lib.php on line 674
+[15-Dec-2018 03:31:52 Asia/Tokyo] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; videoboard_online has a deprecated constructor in /home/fltrcb6/public_html/moodle/mod/videoboard/type/online/videoboard.class.php on line 11
